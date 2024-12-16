@@ -22,4 +22,6 @@ public class UserResponse {
     public String getName() {
         return name;
     }
+    //오브젝터의 getter를 사용하지 않더라도 만들어야 함
+
 }
